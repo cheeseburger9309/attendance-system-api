@@ -132,7 +132,9 @@ Response:
 Please note that the API assumes the existence of the following directories:
 
 uploads - for temporary image uploads
+
 images - for storing user images
+
 recognizer - for storing the trained face recognition model
 
 Also, make sure to create an SQLite database file database.db in the db directory before running the application.
