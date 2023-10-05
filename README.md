@@ -34,6 +34,8 @@ To start the Flask application, use the following command:
 
 ## API Endpoints
 
+[Postman Documentation](https://documenter.getpostman.com/view/26671764/2s9YJdX3Cb)
+
 ### Upload Images and Add User
 
 Endpoint: /upload
